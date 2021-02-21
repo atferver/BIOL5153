@@ -1,0 +1,104 @@
+---
+title: ##"Ferver CV"
+author: "Alison Fever"
+date: "2/20/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### **Alison Ferver**
+###### atferver@uark.edu
+
+
+##### **Education:**
+2019-Present 	  		University of Arkansas 			     Fayetteville, AR
+	Student
+	Cell and Molecular Biology – Poultry Science
+
+2015-2019 	                    The Pennsylvania State University 		University Park, PA
+	Bachelor of Science 
+	Animal Sciences – Poultry and Avian Sciences
+	
+##### **Research Experience:**
+
+2019-Present	_Senior Graduate Assistant_ – [**Dr. Sami Dridi’s Lab**](https://dridilab.uark.edu/), University of Arkansas
+
+  •	Investigating the potential role of mitochondrial dysfunction in the pathology of     bacterial chondronecrosis with osteomyelitis (BCO) in the modern broiler
+  
+  •	Analyzing the inflammasome profile of BCO and inflammatory pathways contributing     to the disease state
+  
+  •	Developing a mechanistic understanding of BCO in order to improve selection        parameters for primary breeders and develop targeted strategies for producers
+  
+  •	Conducting, analyzing, writing, and presenting independent research projects
+
+2017-2019  _Research and Development Intern_ – [**Cobb-Vantress, Inc.**](https://www.cobb-vantress.com/en_US/), Dr. Rachel Hawken
+
+  •	Developed novel protocols for avian semen preservation
+  
+  •	Researched maternal effects of growth curves and growth curve analysis
+  
+  •	Advanced disease resistant selection protocols through microbiology research
+  
+  •	Completed Genome Wide Association Study on BCO in pedigree flocks using R, linux,     and perl coding languages as well as database manipulation for large data sets
+  
+  •	Worked all facets of primary breeder operations
+
+2017-2018  _Research Assistant_ – [**Dr. Heinrich’s Lab**](https://animalscience.psu.edu/directory/ajh), The Pennsylvania State University
+
+  •	Analyzed circulating stress indicators in experimental calf populations
+  
+  •	Maintained research calf/heifer population on campus dairy 
+
+##### **Service:**
+
+September 2019 
+
+Taught modern molecular laboratory techniques to UofA Pine Bluff students
+
+2017-2019 
+
+Volunteered with Penn State Poultry Science Club at Poultry 101 teaching local 4-Hers avian production, judging, and science
+
+March 2017 
+
+Global Brigades Environmental Panama trip to work with indigenous tribes to strengthen their community poultry farms
+		
+##### **Publications:**
+
+Ferver A, Greene E,  Wideman R, Dridi S. [Evidence of Mitochondrial Dysfunction in bacterial chondronecrosis with osteomyelitis (BCO)-affected broilers](https://doi.org/10.3389/fvets.2021.640901). Front. Vet. January 2021. 
+
+Ferver A, Dridi S. [Bacterial chondronecrosis with osteomyelitis (BCO) in modern broilers: impacts, mechanisms, and perspectives](www.cabi.org/cabreviews/review/20203548490). CAB Reviews. September 2020.
+
+Ferver A, Burgess S, Dridi S, Scanes C. (accepted for publication 2020). Ch. 4: Sturkie’s Avian Physiology: Avian proteomics. Elsevier Science, Netherlands. 
+
+Ferver A, Dridi S. [Regulation of Avian Uncoupling Protein (av-UCP) Expression by Cytokines and Hormonal Signals in Quail Myoblast Cells](https://doi.org/10.1016/j.cbpa.2020.110747). Comp Biochmem Physiol A Mol Integr Physiol. June 2020.
+
+Ferver A, Greene E, Dridi S. [Hormonal regulation of visfatin gene in avian Leghorn male hepatoma (LMH) cells](https://doi.org/10.1016/j.cbpa.2019.110592). Accepted for publication in Comp. Biochem. and Physiol. Part A October 2019.
+
+Ferver A, Dridi S. [Phytogenics as an Alternative to Antibiotics: Chemical Mechanism behind Antimicrobial Activity of Essential oils](https://openventio.org/wp-content/uploads/Phytogenics-as-an-Alternative-to-Antibiotics-Chemical-Mechanism-behind-Antimicrobial-Activity-of-Essential-Oils-AFTNSOJ-4-e012.pdf). Accepted for publication in Adv. Food Technol and Nutri Sci. in 2018.
+
+##### **Abstracts:**
+
+To present at _WPC 2021_:
+
+Mitochondrial Dysfunction in BCO chickens. Ferver A, Greene E, Wideman R, and Dridi S.
+
+Hormonal Regulation of Avian Uncoupling Protein (av-UCP) Gene in Quail myoblast (QM7) cells. Ferver A, Greene E, and Dridi S.
+
+##### **Training:**
+
+**NCGR Summer 2020 Virtual Bioinformatics Workshop:**
+Differential Gene Expression (DE), Metagenomics and Visualization                   August 17 – 28, 2020
+   -	Workflow of high-throughput Next Generation Sequencing
+    	RNA sequencing and metagenomics lab protocols, analysis, and visualization
+    	Unix and R coding language development 
+   -	Provided by New Mexico IDeA Network of Biomedical Research Excellence (NM-INBRE) and the National Center for Genome Resources (NCGR) in Santa Fe, NM
+
+##### **Awards:**
+
+**World’s Poultry Congress** – _USA Carpenter Essay Award Contest Winner_                         November 2019
+
+
