@@ -1,0 +1,11 @@
+assn3
+
+.out. files show STDOUT + STDERR
+.blatsn -  results from each individual blastn except assn3.6.blastn is a tblastx
+merged top selections of blast results into the excel file
+.pbs is the script used for each 
+
+
+original files: parseGFF.py Parse_presidents.py 03.24.21.ipynb
+
+assignment used files:
